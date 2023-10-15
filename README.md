@@ -21,7 +21,7 @@ En el curso "SQL con MySQL: Proyecto final", desarrollé un proyecto práctico q
 
 ## Clases
 
-1. **Clase 1: Proyectando la base de datos Ver el primer video**
+1. **Clase 1: Proyectando la base de datos**
 2. **Clase 2: Función aleatorio**
 3. **Clase 3: Función cliente aleatorio**
 4. **Clase 4: Generando ventas y problema con PK**
